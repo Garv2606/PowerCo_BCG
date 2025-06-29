@@ -27,12 +27,6 @@ The goal of the simulation was to analyze customer churn and provide strategic b
 - Achieved a **90.3% accuracy** on churn prediction
 - Delivered actionable insights to support business decisions
 - Automated and visualized the entire analysis workflow
-
-## 📎 Links
-
-- 🔗 [View Certificate on Forage](https://www.theforage.com/)
-- 💻 [Project Repository on GitHub](https://github.com/yourusername/yourrepo)
-
 ---
 
 **Disclaimer**: This project is part of a simulation and does not contain any real customer data.
